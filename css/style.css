@@ -22,4 +22,15 @@ body {
     padding: 10px;
     font-size: 40px;
 }
+h2{
+    border-bottom: 22px dotted red;
+
+
+}
+.tj{
+    border-bottom: 3px solid blue;
+}
+#hj{
+    border-bottom: 4px solid wheat;
+}
 
