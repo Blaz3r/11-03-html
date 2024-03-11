@@ -16,4 +16,10 @@ body {
     padding: 0%
     ;
 }
+#wh {
+    background-color: purple;
+    color:beige;
+    padding: 10px;
+    font-size: 40px;
+}
 
